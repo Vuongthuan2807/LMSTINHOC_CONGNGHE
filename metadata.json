@@ -1,0 +1,6 @@
+{
+  "name": "Học Vui Tin Học & Công Nghệ",
+  "description": "Website học tập tương tác môn Tin học và Công nghệ dành cho học sinh tiểu học lớp 1 đến lớp 5 với bài học, bài tập, đề kiểm tra, khu vui chơi và trang quản trị giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
